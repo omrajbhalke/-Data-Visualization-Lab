@@ -1,0 +1,101 @@
+Order ID,Order Date,Product ID,Product Name,Category,Sales,Quantity,Discount,Profit,Region,State
+ORD1000,2023-10-08,PID142,Product 16,Furniture,218.75,1,0.18,188.48,East,New York
+ORD1001,2023-07-16,PID165,Product 11,Office Supplies,739.55,5,0.05,172.25,East,California
+ORD1002,2024-01-14,PID158,Product 16,Furniture,757.50,3,0.05,110.68,East,Washington
+ORD1003,2023-10-18,PID128,Product 12,Office Supplies,679.42,7,0.10,60.32,East,Washington
+ORD1004,2023-08-08,PID114,Product 19,Office Supplies,403.56,2,0.19,191.49,West,Texas
+ORD1005,2024-03-22,PID163,Product 3,Electronics,620.48,4,0.15,90.57,South,Florida
+ORD1006,2023-05-30,PID101,Product 8,Furniture,123.44,2,0.05,45.23,North,New York
+ORD1007,2023-11-02,PID111,Product 6,Electronics,302.78,1,0.20,110.48,West,California
+ORD1008,2024-04-18,PID134,Product 17,Office Supplies,541.68,3,0.25,75.32,South,Texas
+ORD1009,2024-02-14,PID140,Product 9,Electronics,889.12,5,0.30,225.46,North,Washington
+ORD1010,2024-01-15,PID195,Product 5,Office Supplies,145.60,8,0.18,115.30,West,Texas
+ORD1011,2024-02-21,PID177,Product 14,Office Supplies,582.34,4,0.12,87.54,East,Florida
+ORD1012,2023-12-25,PID137,Product 2,Furniture,451.55,2,0.11,155.75,South,California
+ORD1013,2023-11-07,PID109,Product 7,Electronics,368.23,7,0.14,90.12,North,Washington
+ORD1014,2024-03-01,PID178,Product 10,Office Supplies,212.56,3,0.09,45.90,West,New York
+ORD1015,2024-01-12,PID180,Product 19,Electronics,560.23,9,0.21,78.45,South,Texas
+ORD1016,2024-02-17,PID189,Product 4,Furniture,129.50,4,0.08,35.67,East,California
+ORD1017,2024-01-26,PID116,Product 17,Electronics,345.90,5,0.25,70.12,West,New York
+ORD1018,2023-07-26,PID135,Product 9,Office Supplies,432.67,6,0.12,89.54,South,Florida
+ORD1019,2023-08-14,PID122,Product 8,Furniture,521.89,4,0.16,125.78,North,Washington
+ORD1020,2023-12-03,PID130,Product 12,Electronics,756.34,2,0.05,190.67,West,California
+ORD1021,2024-02-10,PID141,Product 15,Office Supplies,623.45,5,0.14,78.23,South,New York
+ORD1022,2024-04-20,PID160,Product 16,Office Supplies,350.12,3,0.10,45.67,East,Washington
+ORD1023,2023-07-30,PID174,Product 20,Office Supplies,110.56,1,0.04,12.34,North,Texas
+ORD1024,2024-01-05,PID138,Product 13,Electronics,892.23,6,0.11,150.34,West,California
+ORD1025,2023-09-14,PID153,Product 11,Furniture,123.78,2,0.07,30.45,East,Washington
+ORD1026,2023-08-20,PID121,Product 1,Furniture,299.50,3,0.13,58.34,South,New York
+ORD1027,2023-11-12,PID175,Product 14,Office Supplies,512.78,4,0.15,97.45,West,California
+ORD1028,2023-07-03,PID162,Product 10,Electronics,367.45,2,0.06,54.12,North,Florida
+ORD1029,2023-09-24,PID192,Product 13,Furniture,820.56,5,0.14,180.67,East,Texas
+ORD1030,2023-10-01,PID107,Product 6,Furniture,475.89,7,0.19,125.89,West,Washington
+ORD1031,2023-07-07,PID115,Product 7,Office Supplies,150.78,1,0.08,25.67,North,New York
+ORD1032,2024-02-25,PID136,Product 15,Electronics,234.56,6,0.20,45.34,South,California
+ORD1033,2024-04-14,PID159,Product 16,Office Supplies,450.67,2,0.03,12.34,West,Florida
+ORD1034,2023-12-01,PID169,Product 19,Office Supplies,532.45,4,0.12,78.23,East,Washington
+ORD1035,2023-09-05,PID119,Product 9,Electronics,610.78,5,0.22,140.45,North,California
+ORD1036,2024-04-28,PID144,Product 11,Office Supplies,703.89,3,0.10,67.89,West,New York
+ORD1037,2023-11-30,PID117,Product 8,Electronics,812.45,7,0.17,185.23,South,Washington
+ORD1038,2023-08-12,PID151,Product 5,Furniture,234.12,2,0.11,67.45,North,Texas
+ORD1039,2024-03-07,PID194,Product 1,Office Supplies,453.67,6,0.18,90.45,East,California
+ORD1040,2023-07-21,PID155,Product 3,Electronics,568.23,4,0.14,123.45,West,Florida
+ORD1041,2023-10-24,PID184,Product 18,Furniture,345.78,8,0.20,87.34,South,Washington
+ORD1042,2023-09-11,PID129,Product 7,Office Supplies,223.34,7,0.13,54.45,East,New York
+ORD1043,2024-02-05,PID167,Product 12,Electronics,645.78,5,0.16,134.56,North,California
+ORD1044,2023-10-15,PID108,Product 4,Furniture,789.45,3,0.09,156.45,West,Washington
+ORD1045,2023-07-19,PID124,Product 5,Office Supplies,312.56,2,0.04,35.67,East,Florida
+ORD1046,2024-01-30,PID183,Product 13,Electronics,924.67,5,0.11,178.45,South,New York
+ORD1047,2024-02-27,PID148,Product 2,Furniture,645.34,8,0.21,156.78,West,California
+ORD1048,2024-01-21,PID154,Product 11,Office Supplies,232.45,3,0.07,45.23,East,Washington
+ORD1049,2023-08-18,PID173,Product 14,Electronics,712.45,4,0.18,145.23,North,Florida
+ORD1050,2024-03-10,PID168,Product 5,Furniture,456.78,2,0.20,90.12,South,Texas
+ORD1051,2023-07-02,PID157,Product 17,Office Supplies,587.45,6,0.08,90.67,West,New York
+ORD1052,2023-11-26,PID170,Product 10,Furniture,278.34,7,0.15,78.23,North,California
+ORD1053,2023-12-12,PID187,Product 1,Electronics,645.78,4,0.13,134.67,West,Texas
+ORD1054,2023-09-01,PID185,Product 9,Furniture,754.12,5,0.14,165.23,South,Washington
+ORD1055,2023-08-15,PID146,Product 19,Office Supplies,512.89,3,0.07,87.45,North,Florida
+ORD1056,2023-07-12,PID149,Product 4,Electronics,167.45,6,0.19,45.12,East,New York
+ORD1057,2023-09-22,PID114,Product 16,Furniture,543.67,2,0.10,123.45,West,California
+ORD1058,2024-04-02,PID105,Product 6,Office Supplies,245.78,4,0.08,45.67,South,Texas
+ORD1059,2024-01-11,PID193,Product 8,Furniture,167.78,7,0.17,45.12,East,New York
+ORD1060,2023-12-08,PID131,Product 3,Electronics,812.45,1,0.05,190.34,North,California
+ORD1061,2024-03-18,PID147,Product 11,Furniture,610.89,4,0.14,140.45,West,Florida
+ORD1062,2024-01-18,PID188,Product 15,Office Supplies,223.45,2,0.03,34.56,East,Washington
+ORD1063,2023-10-28,PID120,Product 14,Electronics,912.34,6,0.12,180.67,North,Texas
+ORD1064,2023-11-04,PID139,Product 17,Office Supplies,532.67,8,0.25,78.12,South,New York
+ORD1065,2023-08-10,PID150,Product 7,Furniture,487.45,7,0.22,110.45,East,California
+ORD1066,2024-02-22,PID171,Product 2,Office Supplies,154.34,5,0.10,45.23,West,Florida
+ORD1067,2023-12-18,PID110,Product 5,Electronics,652.78,3,0.19,134.56,North,Washington
+ORD1068,2024-04-05,PID191,Product 14,Furniture,278.56,6,0.09,78.34,South,Texas
+ORD1069,2023-09-17,PID156,Product 19,Office Supplies,812.34,2,0.11,178.45,East,New York
+ORD1070,2023-07-27,PID166,Product 18,Electronics,123.67,8,0.20,35.67,North,California
+ORD1071,2023-12-02,PID112,Product 16,Furniture,143.45,5,0.17,45.78,West,Florida
+ORD1072,2023-10-20,PID106,Product 15,Office Supplies,512.78,4,0.18,90.45,East,Washington
+ORD1073,2024-02-19,PID143,Product 8,Electronics,734.12,1,0.12,180.56,North,Texas
+ORD1074,2024-03-14,PID104,Product 9,Office Supplies,234.45,3,0.05,45.23,South,New York
+ORD1075,2023-08-25,PID118,Product 12,Electronics,678.45,5,0.15,145.78,West,California
+ORD1076,2023-11-18,PID186,Product 7,Furniture,563.89,2,0.10,125.45,North,Florida
+ORD1077,2023-10-11,PID172,Product 3,Office Supplies,256.45,7,0.14,56.78,South,Washington
+ORD1078,2023-09-07,PID125,Product 19,Electronics,478.12,1,0.06,125.45,East,New York
+ORD1079,2024-01-31,PID126,Product 5,Office Supplies,354.67,3,0.09,78.23,North,Texas
+ORD1080,2023-11-13,PID181,Product 14,Furniture,423.45,4,0.13,87.45,West,California
+ORD1081,2023-12-22,PID176,Product 12,Office Supplies,345.67,7,0.12,45.34,South,Florida
+ORD1082,2024-04-26,PID132,Product 18,Electronics,832.56,2,0.05,178.45,North,Washington
+ORD1083,2024-03-25,PID179,Product 13,Office Supplies,298.34,6,0.14,45.23,West,Texas
+ORD1084,2023-07-24,PID190,Product 11,Furniture,634.12,5,0.11,134.67,South,New York
+ORD1085,2023-08-03,PID103,Product 10,Electronics,245.78,4,0.07,45.34,East,California
+ORD1086,2024-02-15,PID152,Product 6,Furniture,698.45,1,0.10,160.34,West,Washington
+ORD1087,2023-09-20,PID127,Product 19,Office Supplies,367.45,2,0.16,90.45,South,Florida
+ORD1088,2023-10-26,PID133,Product 17,Furniture,543.12,6,0.19,145.45,North,New York
+ORD1089,2023-12-30,PID182,Product 7,Electronics,128.34,8,0.22,45.23,West,California
+ORD1090,2024-03-28,PID123,Product 15,Office Supplies,634.45,4,0.15,87.12,East,Washington
+ORD1091,2023-09-26,PID161,Product 14,Furniture,456.78,5,0.18,125.23,South,Texas
+ORD1092,2023-07-09,PID100,Product 11,Office Supplies,823.45,2,0.05,145.34,West,New York
+ORD1093,2023-11-21,PID102,Product 13,Electronics,345.67,3,0.07,78.45,North,California
+ORD1094,2024-04-12,PID145,Product 15,Office Supplies,512.78,7,0.14,90.45,West,Florida
+ORD1095,2023-10-02,PID110,Product 7,Electronics,784.42,9,0.19,6.31,West,New York
+ORD1096,2023-11-03,PID113,Product 18,Furniture,483.31,9,0.05,185.23,East,Texas
+ORD1097,2023-12-07,PID118,Product 19,Furniture,363.35,5,0.10,55.70,South,California
+ORD1098,2023-08-06,PID182,Product 15,Electronics,170.42,5,0.24,58.43,West,Washington
+ORD1099,2024-01-20,PID145,Product 16,Office Supplies,636.73,10,0.07,54.92,East,California
